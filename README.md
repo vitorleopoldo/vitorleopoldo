@@ -74,3 +74,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
 
+![snake gif](https://github.com/vitorleopoldo/vitorleopoldo/blob/output/github-contribution-grid-snake.svg)
