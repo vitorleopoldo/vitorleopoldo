@@ -1,6 +1,7 @@
 # Vitor_Leopoldo
 
-<img align="right" width="250px" style="margin-top:-20px" src="">
+<img align="right" width="250px" style="margin-top:-20px" src=" ![download20231103143934](https://github.com/vitorleopoldo/vitorleopoldo/assets/91163817/6dff042f-0d86-41be-b359-a1cc863d0876)
+">
 
 </br>
 </br>
@@ -35,7 +36,7 @@
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" ">
+![download20231103143934](https://github.com/vitorleopoldo/vitorleopoldo/assets/91163817/6dff042f-0d86-41be-b359-a1cc863d0876)  
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -63,10 +64,7 @@
 
 </br>
 
-<a href= target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href= target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href= target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href= target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+
 
 ##
 <p align="center">
